@@ -1,0 +1,12 @@
+#div-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 8px;    
+}
+
+#titulo-home {    
+    text-align: center;
+    color: white;
+    font-size: large;    
+}
